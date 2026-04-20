@@ -1,0 +1,28 @@
+SENTRA - RELATORIO DE ANALISE DE REDE
+========================================================================
+Titulo: SENTRA - Relatorio Executivo (sumario)
+Tipo de relatorio: Executivo (sumario)
+Alvo: Pendente
+Tipo de scan: Pendente
+Operador: admin
+Gerado em: 18/04/2026 20:29:07
+Risco geral: BAIXO
+Observacoes:
+- Relatorio resumido para visao gerencial e priorizacao rapida.
+- Topologia de rede sera anexada quando o modulo visual de descoberta estiver integrado.
+
+RESUMO EXECUTIVO
+------------------------------------------------------------------------
+Hosts detectados: 0
+Servicos mapeados: 0
+Portas abertas: 0
+Achados relevantes: 0
+Distribuicao de risco: criticos=0, altos=0, medios=0, baixos=0
+
+ACHADOS PRIORITARIOS
+------------------------------------------------------------------------
+Nenhum achado relevante para o escopo selecionado.
+
+RESULTADOS TECNICOS
+------------------------------------------------------------------------
+Nenhum resultado tecnico disponivel para este relatorio.

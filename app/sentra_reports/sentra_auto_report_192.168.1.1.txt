@@ -1,0 +1,39 @@
+SENTRA - RELATORIO DE ANALISE DE REDE
+========================================================================
+Titulo: SENTRA - Relatorio Tecnico completo
+Tipo de relatorio: Tecnico completo
+Alvo: 192.168.1.1
+Tipo de scan: Completo
+Operador: admin
+Gerado em: 20/04/2026 20:05:33
+Risco geral: ALTO
+
+RESUMO EXECUTIVO
+------------------------------------------------------------------------
+Hosts detectados: 1
+Servicos mapeados: 3
+Portas abertas: 0
+Achados relevantes: 0
+Distribuicao de risco: criticos=0, altos=0, medios=0, baixos=0
+
+ACHADOS PRIORITARIOS
+------------------------------------------------------------------------
+Nenhum achado relevante para o escopo selecionado.
+
+RESULTADOS TECNICOS
+------------------------------------------------------------------------
+- 192.168.1.1 (192.168.1.1) | 21/TCP | ftp | status=Unfiltered | risco=BAIXO
+  Versao: -
+  Sistema: -
+  Referencia: Risco inicial
+  Recomendacao: Monitorar e manter configuracao atualizada.
+- 192.168.1.1 (192.168.1.1) | 22/TCP | ssh | status=Unfiltered | risco=ALTO
+  Versao: -
+  Sistema: -
+  Referencia: Risco inicial
+  Recomendacao: Revisar configuracao e aplicar politicas de acesso.
+- 192.168.1.1 (192.168.1.1) | 80/TCP | http | status=Unfiltered | risco=MEDIO
+  Versao: -
+  Sistema: -
+  Referencia: Risco inicial
+  Recomendacao: Revisar configuracao e aplicar politicas de acesso.
