@@ -56,8 +56,11 @@ logs/
 reports/
 results/
 *.pdf
-*.txt
-!README.txt
+!README.md
+!RESUMO_FINAL.txt
+!GITHUB_PUSH_GUIDE.md
+!PUSH_AGORA.md
+!push-to-github.ps1
 !requirements.txt
 !sentra_structure.txt
 
