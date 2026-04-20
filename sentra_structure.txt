@@ -1,0 +1,40 @@
+Sentra/
+|-- requirements.txt
+|-- sentra_structure.txt
+`-- app/
+    |-- main.py
+    |-- core/
+    |   |-- config.py
+    |   `-- security.py
+    |-- database/
+    |   |-- models.py
+    |   |-- session.py
+    |   `-- migrations/
+    |-- modules/
+    |   |-- reports/
+    |   |   |-- exporter.py
+    |   |   `-- report_service.py
+    |   `-- scanner/
+    |       |-- nmap_runner.py
+    |       |-- parser.py
+    |       `-- risk_classifier.py
+    |-- schemas/
+    |   `-- scan_schema.py
+    `-- ui/
+        |-- README.md
+        |-- __init__.py
+        |-- main_window.py
+        |-- styles.py
+        |-- ui_data.py
+        |-- assets/
+        |-- dialogs/
+        |-- screens/
+        |   |-- history_screen.py
+        |   |-- logs_screen.py
+        |   |-- reports_screen.py
+        |   |-- results_screen.py
+        |   |-- scan_screen.py
+        |   |-- settings_screen.py
+        |   |-- vulnerabilities_screen.py
+        |   `-- __init__.py
+        `-- widgets/
