@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ SENTRA - Scanner de Segurança de Redes
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
@@ -453,3 +454,6 @@ Qualquer violação destes termos resultará em ação legal apropriada.
 
 **Versão**: 1.0.0
 
+=======
+# Sentra-Sistema-de-Analise-de-Vulnerabilidade-de-Rede
+>>>>>>> 05dba6bde8aa434fce5df4066439f81754b017ad
